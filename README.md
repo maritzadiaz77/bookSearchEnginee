@@ -35,8 +35,10 @@ Mock-Up
 ## Installation
 https://github.com/maritzadiaz77/bookSearchEnginee 
 
-## Usage
+http://localhost:3000/ 
 
+## Usage
+npm run start and then go to http://localhost:3000/ 
 ## Credits
 Documentation, teacher, and thanks to my tutor!
 
